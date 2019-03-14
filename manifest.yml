@@ -5,6 +5,6 @@ applications:
   name: wesetern01companies
   buildpack: sdk-for-nodejs
   command: npm start
-  memory: 84MB
+  memory: 100MB
   domain: mybluemix.net
   host: wesetern01-companies
